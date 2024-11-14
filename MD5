@@ -1,4 +1,4 @@
-352984b0c784273c33145518f47ff512 *DESCRIPTION
+0219ae0e7e0815a70c7c3da76da37a80 *DESCRIPTION
 c45b55711a786809e89ad22bde145d35 *LICENSE
 d0e3cf36013bc5379ec42cbac4e2d60f *NAMESPACE
 cd24de1bd2fb7fddcf4d31decc04e371 *R/RcppExports.R
@@ -240,7 +240,7 @@ f8c195b9c94e7601ce1ffac5b3b90249 *tests/testthat/test-operators.R
 8fd0a89a63ce622308589a1d48110899 *tests/testthat/test-pop.R
 8e6127f2a92de04316979fed6f790266 *tests/testthat/test-pop_back.R
 2cd9e4c960ecf6d9b0daf572e7bf0b75 *tests/testthat/test-pop_front.R
-4d58363046e5b723ddbec6d01cf3fbda *tests/testthat/test-print.R
+2b1ca0801f4d53e01e931a6245efc17e *tests/testthat/test-print.R
 c3c98b629e1356856b2939148822b700 *tests/testthat/test-push.R
 6f3f73d402a226f350d95c27396a5bf0 *tests/testthat/test-push_back.R
 3b7bbd42ba3630de3e82a2c0c3e69108 *tests/testthat/test-push_front.R
