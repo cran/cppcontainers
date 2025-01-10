@@ -12,7 +12,6 @@
 
 <meta name="author" content="Christian Düben" />
 
-<meta name="date" content="2024-11-09" />
 
 <title>Introduction to cppcontainers</title>
 
@@ -340,7 +339,7 @@ code > span.er { color: #a61717; background-color: #e3d2d2; }
 
 <h1 class="title toc-ignore">Introduction to cppcontainers</h1>
 <h4 class="author">Christian Düben</h4>
-<h4 class="date">November 09, 2024</h4>
+<h4 class="date">Updated: November 22, 2024</h4>
 
 
 
@@ -363,17 +362,18 @@ cppcontainers does these steps for you. It wraps C++ containers, their
 methods, and helper functions and compiles them when the package is
 installed. There is no need to write C++ code or wait for compilation
 after the package has been installed. You can use the containers as
-interactively and without waiting time as R’s native data frames.
+interactively and without waiting time as you do with R’s native data
+frames.
 </p>
 <p style="text-align: justify">
-Second, it allows user who do not administer their machines without an
-installed compiler (e.g., without Rtools on Windows) to use C++
-containers, through the binary version of the package.
+Second, it allows users who do not have a compiler installed (e.g.,
+without Rtools on Windows) to use C++ containers, through the binary
+version of the package.
 </p>
 <p style="text-align: justify">
 Third, it makes C++ easily accessible to R users. Much of the R
 community does not understand C++ and does not want to undertake the
-effort of learning it. This can impede collaboration between team
+effort of learning it. This can impede collaboration between the team
 members who are familiar with C++ and those who are not. cppcontainers
 circumvents this problem by abstracting away much of the underlying C++
 code, framing everything in an R-style syntax (incl. 1-based indices),
@@ -479,7 +479,7 @@ four mentioned types.
 <p style="text-align: justify">
 This package covers many of the container types’ methods and maintains
 their original names. To make them more intuitive for R users, it
-replaces the object-oriented notation (<code>x.size()</code>), with the
+replaces the object-oriented notation (<code>x.size()</code>) with the
 in R more commonly used functional notation (<code>size(x)</code>).
 cppcontainers omits methods that return values such as pointers or
 iterators, which are not directly utilizable in R. One example is the
@@ -505,8 +505,8 @@ with <code>base::remove</code>.
 <p style="text-align: justify">
 The following table illustrates which methods apply to which container
 type. Italicized names do not refer to original C++ methods, but to
-functions added by this package. They aid in accessing the objects’ data
-from R.
+functions added by this package. These aid in accessing the objects’
+data from R.
 </p>
 <div id="associative-containers" class="section level2" number="3.1">
 <h2><span class="header-section-number">3.1</span> Associative
@@ -1772,6 +1772,7 @@ Containers</h2>
 </tr>
 </tbody>
 </table>
+<p><br></p>
 </div>
 </div>
 <div id="examples" class="section level1" number="4">

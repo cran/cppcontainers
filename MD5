@@ -1,6 +1,7 @@
-0219ae0e7e0815a70c7c3da76da37a80 *DESCRIPTION
+d5cc0e5d081a701e51d36965c4ded688 *DESCRIPTION
 c45b55711a786809e89ad22bde145d35 *LICENSE
 d0e3cf36013bc5379ec42cbac4e2d60f *NAMESPACE
+7b4f0295e3ad6369d6a1cd58484374ca *NEWS.md
 cd24de1bd2fb7fddcf4d31decc04e371 *R/RcppExports.R
 77f3ebe24b4f6ddf8e76ddd2f9dc6a45 *R/assign.R
 3f73b366782f07af50bd7f3ec346e7a0 *R/at.R
@@ -69,14 +70,14 @@ e60658dd89b394b409eb18bf1b413522 *R/unordered_multiset.R
 da289e12159e4b2f57a6f8b2e7afe144 *R/unordered_set.R
 b86071e9844083e6f16351e92b81be8d *R/utils.R
 ea7d0704066c132b68554669f45b544f *R/vector.R
-28e93586a3d66ca30d5f7ac221cfacf4 *README.md
+2946c123e2da766f9618bceb8e1844dd *README.md
 50dd8f5dfb3e843bcce3de0102f1a6f3 *build/vignette.rds
 4f8bd692bd5c348aa2512639e959b362 *inst/doc/faq.R
 7031ffe546eddac3cf66cdec7d83a21d *inst/doc/faq.Rmd
 4717763895c674edd0916035d0a0c942 *inst/doc/faq.html
 1e6a5fd1b6086787bd9d2a5de0bc7f62 *inst/doc/introduction.R
-88b73ce7cee9b3fa1c60b828f4da36d4 *inst/doc/introduction.Rmd
-f95393ea0249ad3d89bb90c79fe05acb *inst/doc/introduction.html
+c03fdd4d73d8de8ef522f0de698b4663 *inst/doc/introduction.Rmd
+c19b33c7b1b131820feeaef6491a5854 *inst/doc/introduction.html
 93e88fb9971b7ecfab927443f20dbc0f *inst/guidelines.md
 0d21307b85caa6050046a2cd8d7b0d4a *inst/include/cppcontainers_types.h
 64d299312672406bfd9d0d63cafa2acc *man/assign.Rd
@@ -201,7 +202,7 @@ dbc162b102932c7b701c5bb16d15fc59 *src/set.cpp
 36925c982da0d8e14b01f0cb0abf41c2 *src/splice.cpp
 814dcab6d81a710ea16fb8ef62b05dd4 *src/splice_after.cpp
 a73ed3e132216d80dc8aa219de87ad82 *src/stack.cpp
-a12e5175bb3ee87e7f85839267bee8c3 *src/to_r.cpp
+542ffe9d4db0ab098851e27e0e90b3f9 *src/to_r.cpp
 2e598ced14afc9fc400ee6a24c5356ba *src/top.cpp
 c394ee2dfd9a0a7cbfb1be3ceeba8006 *src/try_emplace.cpp
 60af3686de2f5a095e2e2333eb28504e *src/unique.cpp
@@ -261,4 +262,4 @@ bb3f91251ef107c94b8b069c649ef694 *tests/testthat/test-to_r.R
 80f5a8fe6205228bb6b21e46fdf1c198 *tests/testthat/test-type.R
 3617893de858dca260284bb5a9e03388 *tests/testthat/test-unique.R
 7031ffe546eddac3cf66cdec7d83a21d *vignettes/faq.Rmd
-88b73ce7cee9b3fa1c60b828f4da36d4 *vignettes/introduction.Rmd
+c03fdd4d73d8de8ef522f0de698b4663 *vignettes/introduction.Rmd
