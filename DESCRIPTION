@@ -1,7 +1,7 @@
 Package: cppcontainers
 Type: Package
 Title: 'C++' Standard Template Library Containers
-Version: 1.0.3
+Version: 1.0.4
 Authors@R: person("Christian", "Düben", email = "cdueben.ml+cran@proton.me", role = c("aut", "cre"))
 Description: Use 'C++' Standard Template Library containers interactively in R. Includes sets, unordered sets, multisets, unordered multisets, maps, 
   unordered maps, multimaps, unordered multimaps, stacks, queues, priority queues, vectors, deques, forward lists, and lists.
@@ -32,8 +32,8 @@ Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2025-01-10 03:35:53 UTC; Christian
+Packaged: 2025-01-14 23:20:44 UTC; Christian
 Author: Christian Düben [aut, cre]
 Maintainer: Christian Düben <cdueben.ml+cran@proton.me>
 Repository: CRAN
-Date/Publication: 2025-01-10 04:00:09 UTC
+Date/Publication: 2025-01-15 08:00:14 UTC
